@@ -1,0 +1,23 @@
+#home{
+	color: green;
+ }
+#about{
+	color: red;
+ }
+#contact{
+	color: purple;
+ }
+.words{
+	color: blue;
+	font-size: 20px;
+ }
+ h1{
+ 	font-size: 40px;
+ }
+div{
+	background-color: yellow;
+	border : 1px solid red;
+ }
+#first{
+	background-color: orange;
+ }
